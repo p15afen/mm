@@ -26,8 +26,8 @@ Data Visualizer: https://p15afen.github.io/D3js-uk-political-donations/
  
 
 ## Παραδοτέο 3
+Προσθήκη μεγένθυσης κειμένου με hover από κάποιο element(h1,p...).
 
-...
 
 ## Παραδοτέο 4 - Tελική Αναφορά
 
